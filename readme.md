@@ -15,9 +15,7 @@ O Prompt Schema é responsável por receber as respostas do usário, de forma qu
 
 Os Services, são responsáveis pela lógica da aplicação, onde o QR Code e o gerador de senhas estão funcionando.
 
-<img src="https://github.com/user-attachments/assets/f779769a-c681-4e82-9c20-2384024ad29e" alt="architecture drawing" width="200"/>
-
-![image](https://github.com/user-attachments/assets/f779769a-c681-4e82-9c20-2384024ad29e)
+<img src="https://github.com/user-attachments/assets/f779769a-c681-4e82-9c20-2384024ad29e" alt="architecture drawing" width="450"/>
 
 ### Lógica
 
