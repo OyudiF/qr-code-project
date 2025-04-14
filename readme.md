@@ -15,6 +15,8 @@ O Prompt Schema é responsável por receber as respostas do usário, de forma qu
 
 Os Services, são responsáveis pela lógica da aplicação, onde o QR Code e o gerador de senhas estão funcionando.
 
+![image](https://github.com/user-attachments/assets/f779769a-c681-4e82-9c20-2384024ad29e)
+
 ### Lógica
 
 Ao selecionar o serviço de QR Code, o prompt necessita de um link para que o QR Code seja gerado. Ao copiar o link, pode ser gerado tanto em formato de imagem (O que deixa maior), quanto em formato do terminal.
